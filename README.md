@@ -29,7 +29,7 @@ I am a student and freelancer specializing in web and mobile app development. In
   More about me
 </summary>
 <br>
-I enjoy sharing knowledge, putting together tutorials, and contributing to open-source projects to help fellow developers. I also enjoy learning new technologies and frameworks.
+
 
 #### Github Stats
 
