@@ -11,12 +11,8 @@ I'm a **Web Developer** and **Informatics Student** at Universitas Ahmad Dahlan,
 - 📫 How to reach me: dwicahyonugroho782@gmail.com.
 - ⚡ Fun fact: I love web design and mobile-first development.
 
-### Programming Languages
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Web Technologies
-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks
