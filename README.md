@@ -28,9 +28,10 @@ I am a student and freelancer specializing in web and mobile app development. In
 <summary>
   More about me
 </summary>
+<br>
+I enjoy sharing knowledge, putting together tutorials, and contributing to open-source projects to help fellow developers. I also enjoy learning new technologies and frameworks.
 
-<br >
-####Github Stats
+#### Github Stats
 
 ![Dwi Cahyo's github stats](https://github-readme-stats.vercel.app/api?username=dwicah79&count_private=true&theme=tokyonight&hide=contribs,prs)
 
