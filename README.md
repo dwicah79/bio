@@ -4,7 +4,7 @@ I'm a **Web Developer** and **Informatics Student** at Universitas Ahmad Dahlan,
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@dwicah79-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dwicah79)](https://twitter.com/dwicah79) [![Linkedin Badge](https://img.shields.io/badge/-Dwi_Cahyo_Nugroho-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwicah79) [![Mail Badge](https://img.shields.io/badge/-@dwicah79-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dwicah79/) [![Mail Badge](https://img.shields.io/badge/-dwicah79-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dwicah79@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Dwi_Cahyo_Nugroho-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dwicah79](https://www.linkedin.com/in/dwicahyonugroho30/)) [![Mail Badge](https://img.shields.io/badge/-@dwicah79-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dwicah79/) [![Mail Badge](https://img.shields.io/badge/-dwicah79-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dwicah79@gmail.com)
 
 - 🔭 I’m currently studying Informatics at Universitas Ahmad Dahlan.
 - :desktop_computer: Most used line of code `git commit -m "Initial Commit"`
