@@ -21,7 +21,7 @@ I am a student and freelancer specializing in web and mobile app development. In
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://devwithdwi.online/)
+- :paperclip: [Personal Website](https://devwithdwi.online/)
 - :email: dwicahyonugroho782@gmail.com
 
 <details>
