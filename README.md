@@ -21,12 +21,8 @@ I am a student and freelancer specializing in web and mobile app development. In
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/dwicah79)
+- :paperclip: [Personal Website]([https://github.com/dwicah79](https://devwithdwi.online/))
 - :email: dwicahyonugroho782@gmail.com
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dwicah79)
 
 <details>
 <summary>
@@ -34,9 +30,6 @@ I am a student and freelancer specializing in web and mobile app development. In
 </summary>
 
 <br >
-
-I enjoy sharing knowledge, putting together tutorials, and contributing to open-source projects to help fellow developers. I also enjoy learning new technologies and frameworks.
-
 #### Github Stats
 
 ![Dwi Cahyo's github stats](https://github-readme-stats.vercel.app/api?username=dwicah79&count_private=true&theme=tokyonight&hide=contribs,prs)
